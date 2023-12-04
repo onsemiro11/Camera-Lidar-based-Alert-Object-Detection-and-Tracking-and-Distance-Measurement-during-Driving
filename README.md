@@ -65,5 +65,8 @@ streamlit run app.py
 
 ## References
 https://discuss.streamlit.io/t/deploy-yolov5-object-detection-on-streamlit/27675
+
 https://github.com/theos-ai/easy-yolov7
+
+https://github.com/moaaztaha/Yolo-Interface-using-Streamlit
 
