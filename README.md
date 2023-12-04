@@ -5,6 +5,7 @@ A web interface for Sensor Fusion, Camera - Lidar Calibration and object detecti
 It supports CPU and GPU inference, supports both images and videos and uploading your own custom models. but, up to now, you can't use your own lidar file.. I will setup it.
 
 <img src="output.gif" alt="demo of the dashboard" width="800"/>
+<img width="800" alt="image" src="https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving/assets/49609175/18b32912-0a9d-47c9-9faa-df5be51dc18f">
 
 
 ## Features
