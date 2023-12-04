@@ -54,12 +54,20 @@ Train and get own model weights file.
 After cloning the repo:
 1. Install requirements
    - `pip install -r requirements.txt`
-2. Add sample images to `data/sample_images`
-3. Add sample video to `data/sample_videos` and call it `sample.mp4` or change name in the code.
-4. Add the model file to `models/` and change `cfg_model_path` to its path.
+2. Add sample images to `data/image/`
+3. Add sample lidar to `data/velodyne/` pcd file in folder
+
+   3-1. if you have .bin file, you have to convert .bin to .pcd file.
+```bash
+   python3 bin3pcd_folder.py
+```
+4. Add sample calibration matrix `data/calib/`
+5. Add the model file to `models/` and change `cfg_model_path` to its path.
 ```bash
 git clone https://github.com/onsemiro11/Camera & Lidar based Alert Object Detection and Distance Measurement during Driving
+
 cd Camera & Lidar based Alert Object Detection and Distance Measurement during Driving
+
 streamlit run app.py
 ```
 
