@@ -64,9 +64,9 @@ After cloning the repo:
 4. Add sample calibration matrix `data/calib/`
 5. Add the model file to `models/` and change `cfg_model_path` to its path.
 ```bash
-git clone https://github.com/onsemiro11/Camera & Lidar based Alert Object Detection and Distance Measurement during Driving
+git clone https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving.git
 
-cd Camera & Lidar based Alert Object Detection and Distance Measurement during Driving
+cd -Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving
 
 streamlit run app.py
 ```
