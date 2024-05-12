@@ -1,6 +1,6 @@
 
 # Camera & Lidar based Alert Object Detection and Distance Measurement during Driving
-A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & distance Measurement using streamlit.
+A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & Tracking & distance Measurement using streamlit.
 
 It supports CPU and GPU inference, supports both images and videos and uploading your own custom models. but, up to now, you can't use your own lidar file.. I will setup it.
 
